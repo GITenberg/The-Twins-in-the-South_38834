@@ -1,0 +1,29 @@
+_repo: The-Twins-in-the-South_38834
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38834-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitehill, Dorothy
+    gutenberg_agent_id: '25594'
+    url: http://www.gutenberg.org/2009/agents/25594
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Virginia -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+title: The Twins in the South
+url: http://www.gutenberg.org/ebooks/38834
